@@ -1,0 +1,3 @@
+AM.EN.U4CSE16239:Discrete Mathematics,4,20:Data Structures,20,20:Digital Circuits and Systems,10,20:OOPS,30,30
+AM.EN.U4CSE16503:Discrete Mathematics,5,23:Data Structures,26,12:Digital Circuits and Systems,15,32:OOPS,30,30
+AM.EN.U4CSE16256:Discrete Mathematics,6,23:Data Structures,26,12:Digital Circuits and Systems,15,32:OOPS,30,30

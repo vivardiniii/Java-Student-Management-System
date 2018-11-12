@@ -1,0 +1,3 @@
+AM.EN.U4CSE16239:Discrete Mathematics, 15MAT201, Sarika, Math:Data Structures, 15CSE201, Krishnaveni, CSE:Digital Circuits and Systems, 15ECE202, Prathibha, ECE:OOPS, 15CSE202, Sumesh, CSE
+AM.EN.U4CSE16503:Discrete Mathematics, 15MAT201, Jishnu, Math:Data Structures, 15CSE201, Krishnaveni, CSE:Digital Circuits and Systems, 15ECE202, Prathibha, ECE:OOPS, 15CSE202, Sumesh, CSE
+AM.EN.U4CSE16256:Discrete Mathematics, 15MAT201, Dhaneesh, Math:Data Structures, 15CSE201, Krishnaveni, CSE:Digital Circuits and Systems, 15ECE202, Prathibha, ECE:OOPS, 15CSE202, Sumesh, CSE
