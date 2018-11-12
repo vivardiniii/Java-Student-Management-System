@@ -1,0 +1,14 @@
+This program holds the details of multiple students, their courses, attendance of that course, their faculty, marks, personal details, events participated in, awards and achievements, initially read from a text file. 
+
+HOW TO USE:
+
+Run the Driver class.
+It gives options, if you are a student or a teacher.
+The teacher has rights to both see and edit the information of the student, while student can only see his information. 
+If faculty chooses to edit, he gets to choose the student, which course, which information about it the faculty wants to change.
+
+All the changes are finally stored in an object file.
+
+ 
+
+
